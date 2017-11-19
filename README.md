@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Nov 17, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Sydney Vincent)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Creating a recipe program)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://smv13.github.io/lesson7/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to invoke a function when a user clicks an h3 element)
+2. (I learned how to fade in hidden elements.)
+3. (I learned how to traverse the DOM tree to elements)
 
